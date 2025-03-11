@@ -66,6 +66,7 @@ This project is a basic Pokémon search application built with Next.js (App Rout
 5.  **Open your browser and navigate to `http://localhost:3000`.**
 
 ## Project Structure
+```
 ├── app/
 │   ├── components/
 │   │   ├── PokemonCard.tsx
@@ -82,4 +83,4 @@ This project is a basic Pokémon search application built with Next.js (App Rout
 ├── package.json
 ├── tailwind.config.js
 └── postcss.config.js
-
+```
